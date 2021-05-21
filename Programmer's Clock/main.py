@@ -7,25 +7,26 @@ def getdate():
     import datetime
     return (str(datetime.datetime.now()))
 
+# function to play music.
 def musicloop(stopper):
     mixer.init()
     mixer.music.load("music.mp3")
-    mixer.music.play()  #playing the music provided i.e. music.mp3
+    mixer.music.play()              #playing the music provided i.e. music.mp3
     while True:
-        x = input("Please type STOP to stop the alarm or EXIT to stop the program : ")
+        x = input("Please type STOP to stop the alarm or EXIT to end the program : ")
         # music termination condition.
         if (x.upper() == stopper):
-            print("\nGreat! Get back to work:)\n")
+            print("\nGreat! Get back to your work :)\n")
             mixer.music.stop()
             return True
-            break
+
         # program termination condition.
         elif (x.upper() == "EXIT"):
             return False
 
 # total_hours = 2
 
-# variables initialized with 0 for counting total number of exercises and water drank in a day
+# variables initialized with 0 for counting total number of exercises and water consumed in a day.
 total_water = 0
 total_physical_exercises = 0
 total_eye_exercises = 0
@@ -39,7 +40,6 @@ if __name__ == '__main__':
     eyes_delay = 10     #1800 as eyes exercise should be done after half an hour
     drink_delay = 20    #3600 as water to be taken after an hour
     phy_delay = 35      #5400 as eyes exercise should be done after 1.5 hour
-
 
 
     while(True):
