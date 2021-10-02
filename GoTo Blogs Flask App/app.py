@@ -32,17 +32,30 @@ def index():
 def about():
     return render_template('about.html')
 
+
+@app.route('/login')
+def logi():
+    return render_template('login.html')
+
+
+@app.route('/signup')
+def signup():
+    return render_template('signup.html')
+
 # Implementing CRUD operations on the DB
 # CREATE: + READ:
-@app.route('/posts' , methods=['GET' , 'POST'])
+
+
+@app.route('/posts', methods=['GET', 'POST'])
 def posts():
-    if request.method =='POST':
-        post_title = request.form['title']        
-        post_content = request.form['content']        
-        post_author = request.form['author']  
+    if request.method == 'POST':
+        post_title = request.form['title']
+        post_content = request.form['content']
+        post_author = request.form['author']
 
         # Creating object.
-        new_post =  BlogPost(title=post_title , content=post_content, author=post_author)      
+        new_post = BlogPost(
+            title=post_title, content=post_content, author=post_author)
 
         # Adding data to the data-base.
         db.session.add(new_post)
@@ -57,14 +70,14 @@ def posts():
 
 
 # UPDATE
-@app.route('/posts/edit/<int:id>' , methods=['GET' , 'POST'])
+@app.route('/posts/edit/<int:id>', methods=['GET', 'POST'])
 def edit(id):
     # Getting the specific post by unique-id or 404 if doesn't exist.
     post = BlogPost.query.get_or_404(id)
     if request.method == 'POST':
-        post.title = request.form['title']        
-        post.content = request.form['content']        
-        post.author = request.form['author']  
+        post.title = request.form['title']
+        post.content = request.form['content']
+        post.author = request.form['author']
 
         db.session.commit()
 
@@ -84,23 +97,25 @@ def delete(id):
     return redirect('/posts')
 
 
-@app.route('/posts/new' , methods = ['GET' , 'POST'])
+@app.route('/posts/new', methods=['GET', 'POST'])
 def newpost():
     if request.method == 'POST':
-        post_title = request.form['title']        
-        post_content = request.form['content']        
-        post_author = request.form['author']  
+        post_title = request.form['title']
+        post_content = request.form['content']
+        post_author = request.form['author']
 
-        new_post =  BlogPost(title=post_title , content=post_content, author=post_author)      
+        new_post = BlogPost(
+            title=post_title, content=post_content, author=post_author)
 
         # Adding data to the data-base.
         db.session.add(new_post)
         db.session.commit()
 
         return redirect('/posts')
-        
+
     else:
         return render_template('newpost.html')
+
 
 if __name__ == "__main__":
     app.run(debug=True)
