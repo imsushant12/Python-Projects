@@ -12,12 +12,12 @@ print("\t\t\t\t\t\t ||  NEWS READER  ||")
 print("\t\t\t\t\t\t ~~~~~~~~~~~~~~~~~~~")
 print("\tHello! Welcome to the news reader app.\n")
 
-req = requests.get("https://newsapi.org/v2/top-headlines?country=in&apiKey=34f65666464e465a9c553b3d6445fa66")
+req = requests.get("https://newsapi.org/v2/top-headlines?country=in&apiKey=<your_api_key>")
 dict = json.loads(req.text)
 
-speak("Hello! Welcome to the news reader app")
+speak("Hello! Welcome to the News Reader App")
 speak("Here are the news for today.")
-print("News for today are : ")
+print("News for today are:")
 
 arts = dict['articles']
 for i in arts:
@@ -27,9 +27,10 @@ for i in arts:
     print("Story - "+ str(i["description"]))
     speak(i["description"])
 
-    print("Checkout the link for detail : " + str(i['url']))
+    print("Checkout the link for detail: " + str(i['url']))
     sleep(7)
     speak("Moving to the next news...")
     print("\n\nMoving to the next news...\n")
 
-speak("\n\nThanks for listening the new, have a nice day.")
+speak("\n\nThanks for listening the news, have a nice day.")
+
