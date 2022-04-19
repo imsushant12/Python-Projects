@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Converter</title>
+
+    <link rel="icon"
+        href="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-calculator-business-management-justicon-lineal-color-justicon.png"
+        type="image/x-icon">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <style>
+        body {
+            background-color: #0A146E;
+        }
+
+        .inner-color {
+            background-color: #171521;
+        }
+
+        .convert {
+            background-color: #E8503D;
+        }
+
+        .currency-text {
+            background-color: #1AB561;
+        }
+    </style>
+
+</head>
+
+
+<body>
+
+    < class="">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-6 mx-auto">
+
+                    <div class="card card-body inner-color text-center mt-5 mb-5">
+
+                        <h1 class="heading text-white display-5 pb-3 mt-3 mb-3">Currency Converter</h1>
+
+                        <form class="mx-auto" id="currency-form" method="post">
+                            <div class="form-group">
+                                <div class="input-group">
+                                    <span class="input-group-text btn-outline-success currency-text text-white ">Select
+                                        First Currency &nbsp;&nbsp;</span>
+                                    <!-- <select class="selectpicker bg-light text-dark font-weight-bold"
+                                        name="first_currency">
+                                        {% for item in info %}
+                                        <option>{{item[1]}}: {{item[0]}}</option>
+                                        {% endfor %} -->
+                                    <select class="selectpicker bg-light text-dark font-weight-bold"
+                                        name="first_currency">
+                                        <option>USD</option>
+                                        <option>EUR</option> 
+                                        <option>JPY</option>
+                                        <option>BGN</option>
+                                        <option>CZK</option>
+                                        <option>DKK</option>
+                                        <option>GBP</option>
+                                        <option>HUF</option>
+                                        <option>PLN</option>
+                                        <option>RON</option>
+                                        <option>SEK</option>
+                                        <option>CHF</option>
+                                        <option>ISK</option>
+                                        <option>NOK</option>
+                                        <option>HRK</option>
+                                        <option>RUB</option>
+                                        <option>TRY</option>
+                                        <option>AUD</option>
+                                        <option>BRL</option>
+                                        <option>CAD</option>
+                                        <option>CNY</option>
+                                        <option>HKD</option>
+                                        <option>IDR</option>
+                                        <option>ILS</option>
+                                        <option>INR</option>
+                                        <option>KRW</option>
+                                        <option>MXN</option>
+                                        <option>MYR</option>
+                                        <option>NZD</option>
+                                        <option>PHP</option>
+                                        <option>SGD</option>
+                                        <option>THB</option>
+                                        <option>ZAR</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="input-group">
+                                    <span class="input-group-text currency-text btn-outline-success text-white ">Select
+                                        Target Currency</span>
+                                    <select class="selectpicker bg-light text-dark font-weight-bold"
+                                        name="second_currency">
+                                        <option>USD</option>
+                                        <option>EUR</option>
+                                        <option>JPY</option>
+                                        <option>BGN</option>
+                                        <option>CZK</option>
+                                        <option>DKK</option>
+                                        <option>GBP</option>
+                                        <option>HUF</option>
+                                        <option>PLN</option>
+                                        <option>RON</option>
+                                        <option>SEK</option>
+                                        <option>CHF</option>
+                                        <option>ISK</option>
+                                        <option>NOK</option>
+                                        <option>HRK</option>
+                                        <option>RUB</option>
+                                        <option>TRY</option>
+                                        <option>AUD</option>
+                                        <option>BRL</option>
+                                        <option>CAD</option>
+                                        <option>CNY</option>
+                                        <option>HKD</option>
+                                        <option>IDR</option>
+                                        <option>ILS</option>
+                                        <option>INR</option>
+                                        <option>KRW</option>
+                                        <option>MXN</option>
+                                        <option>MYR</option>
+                                        <option>NZD</option>
+                                        <option>PHP</option>
+                                        <option>SGD</option>
+                                        <option>THB</option>
+                                        <option>ZAR</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <input type="number" class="mt-5 form-control mb-4" name="amount" placeholder="Enter Amount"
+                                    min="0" required>
+                            </div>
+                            <div class="form-group mt-5">
+                                <input id="submitbtn mt-5" type="submit" value="Calculate"
+                                    class="btn btn-lg convert text-white">
+                            </div>
+                        </form>
+
+                        {% if info|length > 3 %}
+                        <div id="results" class="text-white pt-4">
+                            <h5 class="mb-3">Currency Evaluation</h5>
+                            <div class="form-group">
+                                <div class="input-group">
+                                    <span class="input-group-text text-dark">Evaluated Value: </span>
+                                    <div class="form-control text-dark font-weight-bold" id="total">
+                                        {{result}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="col-md-6 mt-5 mx-auto">
+                    <div class="card card-body inner-color text-center">
+                        <h3 class="heading text-white">Country & Currency Symbol</h3>
+                        <form id="currency-form" method="post">
+                            <div>
+                                <img src="{{url_for('static', filename='images/bg2.png')}}" align="middle" />
+                            </div>
+                            <div class="form-group">
+                                <div class="input-group mt-3">
+                                    <select class="mx-auto selectpicker bg-light text-dark font-weight-bold" name="second_currency">
+                                        {% for item in info %}
+                                        <option>{{item[1]}}: {{item[0]}}</option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </div>
+                        </form>
+                </div>
+
+            </div>
+        </div>
+        </div>
+
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+</body>
+
+</html>
