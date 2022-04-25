@@ -1,0 +1,1346 @@
+{
+  "USA": {
+    "Total Cases": "69,808,350",
+    "Total Deaths": "880,976 ",
+    "Total Recovered": "43,892,277",
+    "Active Cases": "25,035,097"
+  },
+  "India": {
+    "Total Cases": "38,218,773",
+    "Total Deaths": "487,719 ",
+    "Total Recovered": "35,807,029",
+    "Active Cases": "1,924,025"
+  },
+  "Brazil": {
+    "Total Cases": "23,420,861",
+    "Total Deaths": "621,927 ",
+    "Total Recovered": "21,848,301",
+    "Active Cases": "950,633"
+  },
+  "UK": {
+    "Total Cases": "15,506,750",
+    "Total Deaths": "152,872 ",
+    "Total Recovered": "11,738,323",
+    "Active Cases": "3,615,555"
+  },
+  "France": {
+    "Total Cases": "15,175,464",
+    "Total Deaths": "127,869 ",
+    "Total Recovered": "9,612,731",
+    "Active Cases": "5,434,864"
+  },
+  "Russia": {
+    "Total Cases": "10,938,261",
+    "Total Deaths": "324,060 ",
+    "Total Recovered": "9,950,333",
+    "Active Cases": "663,868"
+  },
+  "Turkey": {
+    "Total Cases": "10,664,372",
+    "Total Deaths": "85,253 ",
+    "Total Recovered": "9,899,648",
+    "Active Cases": "679,471"
+  },
+  "Italy": {
+    "Total Cases": "9,219,391",
+    "Total Deaths": "142,205 ",
+    "Total Recovered": "6,450,596",
+    "Active Cases": "2,626,590"
+  },
+  "Spain": {
+    "Total Cases": "8,676,916",
+    "Total Deaths": "91,437 ",
+    "Total Recovered": "5,390,818",
+    "Active Cases": "3,194,661"
+  },
+  "Germany": {
+    "Total Cases": "8,320,754",
+    "Total Deaths": "116,935 ",
+    "Total Recovered": "7,139,800",
+    "Active Cases": "1,064,019"
+  },
+  "Argentina": {
+    "Total Cases": "7,446,626",
+    "Total Deaths": "118,628 ",
+    "Total Recovered": "6,384,343",
+    "Active Cases": "943,655"
+  },
+  "Iran": {
+    "Total Cases": "6,236,567",
+    "Total Deaths": "132,152 ",
+    "Total Recovered": "6,073,412",
+    "Active Cases": "31,003"
+  },
+  "Colombia": {
+    "Total Cases": "5,624,520",
+    "Total Deaths": "131,437 ",
+    "Total Recovered": "5,322,450",
+    "Active Cases": "170,633"
+  },
+  "Mexico": {
+    "Total Cases": "4,495,310",
+    "Total Deaths": "302,112 ",
+    "Total Recovered": "3,551,283",
+    "Active Cases": "641,915"
+  },
+  "Poland": {
+    "Total Cases": "4,406,553",
+    "Total Deaths": "103,378 ",
+    "Total Recovered": "3,813,718",
+    "Active Cases": "489,457"
+  },
+  "Indonesia": {
+    "Total Cases": "4,277,644",
+    "Total Deaths": "144,199 ",
+    "Total Recovered": "4,121,117",
+    "Active Cases": "12,328"
+  },
+  "Ukraine": {
+    "Total Cases": "3,799,382",
+    "Total Deaths": "98,843 ",
+    "Total Recovered": "3,571,782",
+    "Active Cases": "128,757"
+  },
+  "Netherlands": {
+    "Total Cases": "3,720,816",
+    "Total Deaths": "21,188 ",
+    "Total Recovered": "2,980,283",
+    "Active Cases": "719,345"
+  },
+  "South Africa": {
+    "Total Cases": "3,568,900",
+    "Total Deaths": "93,707 ",
+    "Total Recovered": "3,390,027",
+    "Active Cases": "85,166"
+  },
+  "Philippines": {
+    "Total Cases": "3,324,478",
+    "Total Deaths": "53,153 ",
+    "Total Recovered": "2,995,961",
+    "Active Cases": "275,364"
+  },
+  "Canada": {
+    "Total Cases": "2,844,910",
+    "Total Deaths": "32,008 ",
+    "Total Recovered": "2,499,913",
+    "Active Cases": "312,989"
+  },
+  "Malaysia": {
+    "Total Cases": "2,817,163",
+    "Total Deaths": "31,831 ",
+    "Total Recovered": "2,744,203",
+    "Active Cases": "41,129"
+  },
+  "Peru": {
+    "Total Cases": "2,723,166",
+    "Total Deaths": "203,750 ",
+    "Total Recovered": "N/A",
+    "Active Cases": "N/A"
+  },
+  "Czechia": {
+    "Total Cases": "2,678,767",
+    "Total Deaths": "36,972 ",
+    "Total Recovered": "2,447,642",
+    "Active Cases": "194,153"
+  },
+  "Belgium": {
+    "Total Cases": "2,575,313",
+    "Total Deaths": "28,726 ",
+    "Total Recovered": "1,982,261",
+    "Active Cases": "564,326"
+  },
+  "Thailand": {
+    "Total Cases": "2,353,062",
+    "Total Deaths": "21,990 ",
+    "Total Recovered": "2,248,341",
+    "Active Cases": "82,731"
+  },
+  "Iraq": {
+    "Total Cases": "2,137,267",
+    "Total Deaths": "24,272 ",
+    "Total Recovered": "2,072,723",
+    "Active Cases": "40,272"
+  },
+  "Vietnam": {
+    "Total Cases": "2,094,802",
+    "Total Deaths": "36,266 ",
+    "Total Recovered": "1,794,924",
+    "Active Cases": "263,612"
+  },
+  "Portugal": {
+    "Total Cases": "2,059,595",
+    "Total Deaths": "19,447 ",
+    "Total Recovered": "1,655,580",
+    "Active Cases": "384,568"
+  },
+  "Israel": {
+    "Total Cases": "2,035,432",
+    "Total Deaths": "8,362 ",
+    "Total Recovered": "1,530,716",
+    "Active Cases": "496,354"
+  },
+  "Australia": {
+    "Total Cases": "2,022,581",
+    "Total Deaths": "2,890 ",
+    "Total Recovered": "903,993",
+    "Active Cases": "1,115,698"
+  },
+  "Japan": {
+    "Total Cases": "1,972,893",
+    "Total Deaths": "18,457 ",
+    "Total Recovered": "1,758,941",
+    "Active Cases": "195,495"
+  },
+  "Romania": {
+    "Total Cases": "1,964,021",
+    "Total Deaths": "59,428 ",
+    "Total Recovered": "1,806,581",
+    "Active Cases": "98,012"
+  },
+  "Chile": {
+    "Total Cases": "1,916,522",
+    "Total Deaths": "39,456 ",
+    "Total Recovered": "1,754,355",
+    "Active Cases": "122,711"
+  },
+  "Switzerland": {
+    "Total Cases": "1,833,443",
+    "Total Deaths": "12,659 ",
+    "Total Recovered": "1,191,909",
+    "Active Cases": "628,875"
+  },
+  "Sweden": {
+    "Total Cases": "1,741,710",
+    "Total Deaths": "15,596 ",
+    "Total Recovered": "1,252,603",
+    "Active Cases": "473,511"
+  },
+  "Greece": {
+    "Total Cases": "1,723,496",
+    "Total Deaths": "22,285 ",
+    "Total Recovered": "1,429,157",
+    "Active Cases": "272,054"
+  },
+  "Bangladesh": {
+    "Total Cases": "1,653,182",
+    "Total Deaths": "28,180 ",
+    "Total Recovered": "1,554,845",
+    "Active Cases": "70,157"
+  },
+  "Austria": {
+    "Total Cases": "1,503,668",
+    "Total Deaths": "13,956 ",
+    "Total Recovered": "1,328,340",
+    "Active Cases": "161,372"
+  },
+  "Serbia": {
+    "Total Cases": "1,501,621",
+    "Total Deaths": "13,181 ",
+    "Total Recovered": "1,289,704",
+    "Active Cases": "198,736"
+  },
+  "Hungary": {
+    "Total Cases": "1,385,500",
+    "Total Deaths": "40,757 ",
+    "Total Recovered": "1,186,319",
+    "Active Cases": "158,424"
+  },
+  "Pakistan": {
+    "Total Cases": "1,345,801",
+    "Total Deaths": "29,042 ",
+    "Total Recovered": "1,265,665",
+    "Active Cases": "51,094"
+  },
+  "Denmark": {
+    "Total Cases": "1,226,895",
+    "Total Deaths": "3,550 ",
+    "Total Recovered": "893,031",
+    "Active Cases": "330,314"
+  },
+  "Ireland": {
+    "Total Cases": "1,122,428",
+    "Total Deaths": "6,087 ",
+    "Total Recovered": "655,301",
+    "Active Cases": "461,040"
+  },
+  "Jordan": {
+    "Total Cases": "1,117,397",
+    "Total Deaths": "13,028 ",
+    "Total Recovered": "1,067,780",
+    "Active Cases": "36,589"
+  },
+  "Kazakhstan": {
+    "Total Cases": "1,100,876",
+    "Total Deaths": "13,105 ",
+    "Total Recovered": "978,588",
+    "Active Cases": "109,183"
+  },
+  "Morocco": {
+    "Total Cases": "1,068,941",
+    "Total Deaths": "15,025 ",
+    "Total Recovered": "990,734",
+    "Active Cases": "63,182"
+  },
+  "Georgia": {
+    "Total Cases": "1,021,943",
+    "Total Deaths": "14,582 ",
+    "Total Recovered": "946,255",
+    "Active Cases": "61,106"
+  },
+  "Cuba": {
+    "Total Cases": "1,011,811",
+    "Total Deaths": "8,352 ",
+    "Total Recovered": "986,012",
+    "Active Cases": "17,447"
+  },
+  "Slovakia": {
+    "Total Cases": "896,798",
+    "Total Deaths": "17,520 ",
+    "Total Recovered": "839,226",
+    "Active Cases": "40,052"
+  },
+  "Nepal": {
+    "Total Cases": "887,769",
+    "Total Deaths": "11,632 ",
+    "Total Recovered": "818,809",
+    "Active Cases": "57,328"
+  },
+  "Bulgaria": {
+    "Total Cases": "851,945",
+    "Total Deaths": "32,431 ",
+    "Total Recovered": "640,213",
+    "Active Cases": "179,301"
+  },
+  "Croatia": {
+    "Total Cases": "848,150",
+    "Total Deaths": "13,300 ",
+    "Total Recovered": "775,657",
+    "Active Cases": "59,193"
+  },
+  "Lebanon": {
+    "Total Cases": "840,514",
+    "Total Deaths": "9,429 ",
+    "Total Recovered": "682,977",
+    "Active Cases": "148,108"
+  },
+  "Tunisia": {
+    "Total Cases": "817,051",
+    "Total Deaths": "25,881 ",
+    "Total Recovered": "711,123",
+    "Active Cases": "80,047"
+  },
+  "UAE": {
+    "Total Cases": "816,945",
+    "Total Deaths": "2,204 ",
+    "Total Recovered": "764,731",
+    "Active Cases": "50,010"
+  },
+  "Bolivia": {
+    "Total Cases": "785,094",
+    "Total Deaths": "20,439 ",
+    "Total Recovered": "616,081",
+    "Active Cases": "148,574"
+  },
+  "Belarus": {
+    "Total Cases": "721,103",
+    "Total Deaths": "5,882 ",
+    "Total Recovered": "713,965",
+    "Active Cases": "1,256"
+  },
+  "S. Korea": {
+    "Total Cases": "712,503",
+    "Total Deaths": "6,480 ",
+    "Total Recovered": "589,768",
+    "Active Cases": "116,255"
+  },
+  "Guatemala": {
+    "Total Cases": "659,655",
+    "Total Deaths": "16,203 ",
+    "Total Recovered": "615,330",
+    "Active Cases": "28,122"
+  },
+  "Saudi Arabia": {
+    "Total Cases": "638,327",
+    "Total Deaths": "8,914 ",
+    "Total Recovered": "584,050",
+    "Active Cases": "45,363"
+  },
+  "Costa Rica": {
+    "Total Cases": "631,311",
+    "Total Deaths": "7,434 ",
+    "Total Recovered": "566,893",
+    "Active Cases": "56,984"
+  },
+  "Ecuador": {
+    "Total Cases": "629,507",
+    "Total Deaths": "34,232 ",
+    "Total Recovered": "N/A",
+    "Active Cases": "N/A"
+  },
+  "Azerbaijan": {
+    "Total Cases": "628,166",
+    "Total Deaths": "8,550 ",
+    "Total Recovered": "610,023",
+    "Active Cases": "9,593"
+  },
+  "Panama": {
+    "Total Cases": "602,606",
+    "Total Deaths": "7,554 ",
+    "Total Recovered": "525,683",
+    "Active Cases": "69,369"
+  },
+  "Sri Lanka": {
+    "Total Cases": "598,536",
+    "Total Deaths": "15,243 ",
+    "Total Recovered": "568,637",
+    "Active Cases": "14,656"
+  },
+  "Lithuania": {
+    "Total Cases": "589,074",
+    "Total Deaths": "7,708 ",
+    "Total Recovered": "528,559",
+    "Active Cases": "52,807"
+  },
+  "Slovenia": {
+    "Total Cases": "569,620",
+    "Total Deaths": "5,732 ",
+    "Total Recovered": "473,157",
+    "Active Cases": "90,731"
+  },
+  "Norway": {
+    "Total Cases": "554,778",
+    "Total Deaths": "1,412 ",
+    "Total Recovered": "88,952",
+    "Active Cases": "464,414"
+  },
+  "Uruguay": {
+    "Total Cases": "543,166",
+    "Total Deaths": "6,258 ",
+    "Total Recovered": "450,380",
+    "Active Cases": "86,528"
+  },
+  "Myanmar": {
+    "Total Cases": "533,604",
+    "Total Deaths": "19,306 ",
+    "Total Recovered": "511,630",
+    "Active Cases": "2,668"
+  },
+  "Dominican Republic": {
+    "Total Cases": "517,611",
+    "Total Deaths": "4,274 ",
+    "Total Recovered": "477,924",
+    "Active Cases": "35,413"
+  },
+  "Paraguay": {
+    "Total Cases": "516,555",
+    "Total Deaths": "16,887 ",
+    "Total Recovered": "455,476",
+    "Active Cases": "44,192"
+  },
+  "Kuwait": {
+    "Total Cases": "479,640",
+    "Total Deaths": "2,480 ",
+    "Total Recovered": "432,729",
+    "Active Cases": "44,431"
+  },
+  "Venezuela": {
+    "Total Cases": "461,059",
+    "Total Deaths": "5,392 ",
+    "Total Recovered": "441,156",
+    "Active Cases": "14,511"
+  },
+  "Ethiopia": {
+    "Total Cases": "459,959",
+    "Total Deaths": "7,190 ",
+    "Total Recovered": "379,914",
+    "Active Cases": "72,855"
+  },
+  "Palestine": {
+    "Total Cases": "449,638",
+    "Total Deaths": "4,773 ",
+    "Total Recovered": "436,776",
+    "Active Cases": "8,089"
+  },
+  "Mongolia": {
+    "Total Cases": "417,557",
+    "Total Deaths": "2,092 ",
+    "Total Recovered": "313,256",
+    "Active Cases": "102,209"
+  },
+  "Finland": {
+    "Total Cases": "416,079",
+    "Total Deaths": "1,790 ",
+    "Total Recovered": "46,000",
+    "Active Cases": "368,289"
+  },
+  "Egypt": {
+    "Total Cases": "403,990",
+    "Total Deaths": "22,238 ",
+    "Total Recovered": "337,627",
+    "Active Cases": "44,125"
+  },
+  "Libya": {
+    "Total Cases": "401,444",
+    "Total Deaths": "5,889 ",
+    "Total Recovered": "386,967",
+    "Active Cases": "8,588"
+  },
+  "Moldova": {
+    "Total Cases": "396,678",
+    "Total Deaths": "10,470 ",
+    "Total Recovered": "368,373",
+    "Active Cases": "17,835"
+  },
+  "Honduras": {
+    "Total Cases": "386,756",
+    "Total Deaths": "10,465 ",
+    "Total Recovered": "127,029",
+    "Active Cases": "249,262"
+  },
+  "Armenia": {
+    "Total Cases": "349,329",
+    "Total Deaths": "8,026 ",
+    "Total Recovered": "333,857",
+    "Active Cases": "7,446"
+  },
+  "Bosnia and Herzegovina": {
+    "Total Cases": "324,026",
+    "Total Deaths": "13,912 ",
+    "Total Recovered": "192,218",
+    "Active Cases": "117,896"
+  },
+  "Kenya": {
+    "Total Cases": "319,379",
+    "Total Deaths": "5,520 ",
+    "Total Recovered": "287,963",
+    "Active Cases": "25,896"
+  },
+  "Latvia": {
+    "Total Cases": "319,027",
+    "Total Deaths": "4,773 ",
+    "Total Recovered": "278,524",
+    "Active Cases": "35,730"
+  },
+  "Oman": {
+    "Total Cases": "318,272",
+    "Total Deaths": "4,125 ",
+    "Total Recovered": "303,644",
+    "Active Cases": "10,503"
+  },
+  "Bahrain": {
+    "Total Cases": "317,380",
+    "Total Deaths": "1,398 ",
+    "Total Recovered": "291,297",
+    "Active Cases": "24,685"
+  },
+  "Qatar": {
+    "Total Cases": "314,073",
+    "Total Deaths": "632 ",
+    "Total Recovered": "271,741",
+    "Active Cases": "41,700"
+  },
+  "Zambia": {
+    "Total Cases": "299,971",
+    "Total Deaths": "3,879 ",
+    "Total Recovered": "285,133",
+    "Active Cases": "10,959"
+  },
+  "Singapore": {
+    "Total Cases": "296,077",
+    "Total Deaths": "844 ",
+    "Total Recovered": "286,038",
+    "Active Cases": "9,195"
+  },
+  "Estonia": {
+    "Total Cases": "278,498",
+    "Total Deaths": "1,994 ",
+    "Total Recovered": "240,007",
+    "Active Cases": "36,497"
+  },
+  "Nigeria": {
+    "Total Cases": "251,571",
+    "Total Deaths": "3,117 ",
+    "Total Recovered": "225,280",
+    "Active Cases": "23,174"
+  },
+  "North Macedonia": {
+    "Total Cases": "249,704",
+    "Total Deaths": "8,153 ",
+    "Total Recovered": "223,053",
+    "Active Cases": "18,498"
+  },
+  "Botswana": {
+    "Total Cases": "239,887",
+    "Total Deaths": "2,534 ",
+    "Total Recovered": "227,041",
+    "Active Cases": "10,312"
+  },
+  "Albania": {
+    "Total Cases": "239,129",
+    "Total Deaths": "3,283 ",
+    "Total Recovered": "212,879",
+    "Active Cases": "22,967"
+  },
+  "Cyprus": {
+    "Total Cases": "233,082",
+    "Total Deaths": "689 ",
+    "Total Recovered": "124,370",
+    "Active Cases": "108,023"
+  },
+  "Algeria": {
+    "Total Cases": "228,918",
+    "Total Deaths": "6,443 ",
+    "Total Recovered": "156,203",
+    "Active Cases": "66,272"
+  },
+  "Zimbabwe": {
+    "Total Cases": "227,552",
+    "Total Deaths": "5,276 ",
+    "Total Recovered": "210,675",
+    "Active Cases": "11,601"
+  },
+  "Mozambique": {
+    "Total Cases": "220,908",
+    "Total Deaths": "2,140 ",
+    "Total Recovered": "194,629",
+    "Active Cases": "24,139"
+  },
+  "Uzbekistan": {
+    "Total Cases": "209,578",
+    "Total Deaths": "1,529 ",
+    "Total Recovered": "201,246",
+    "Active Cases": "6,803"
+  },
+  "Montenegro": {
+    "Total Cases": "208,171",
+    "Total Deaths": "2,493 ",
+    "Total Recovered": "193,989",
+    "Active Cases": "11,689"
+  },
+  "Kyrgyzstan": {
+    "Total Cases": "193,028",
+    "Total Deaths": "2,842 ",
+    "Total Recovered": "181,692",
+    "Active Cases": "8,494"
+  },
+  "Uganda": {
+    "Total Cases": "159,454",
+    "Total Deaths": "3,454 ",
+    "Total Recovered": "99,016",
+    "Active Cases": "56,984"
+  },
+  "Afghanistan": {
+    "Total Cases": "159,303",
+    "Total Deaths": "7,386 ",
+    "Total Recovered": "146,084",
+    "Active Cases": "5,833"
+  },
+  "Namibia": {
+    "Total Cases": "154,897",
+    "Total Deaths": "3,884 ",
+    "Total Recovered": "143,562",
+    "Active Cases": "7,451"
+  },
+  "Ghana": {
+    "Total Cases": "154,614",
+    "Total Deaths": "1,354 ",
+    "Total Recovered": "146,489",
+    "Active Cases": "6,771"
+  },
+  "R\u00e9union": {
+    "Total Cases": "133,617",
+    "Total Deaths": "462 ",
+    "Total Recovered": "86,669",
+    "Active Cases": "46,486"
+  },
+  "Luxembourg": {
+    "Total Cases": "131,644",
+    "Total Deaths": "941 ",
+    "Total Recovered": "105,327",
+    "Active Cases": "25,376"
+  },
+  "Laos": {
+    "Total Cases": "128,248",
+    "Total Deaths": "508 ",
+    "Total Recovered": "7,660",
+    "Active Cases": "120,080"
+  },
+  "Rwanda": {
+    "Total Cases": "126,685",
+    "Total Deaths": "1,417 ",
+    "Total Recovered": "45,522",
+    "Active Cases": "79,746"
+  },
+  "El Salvador": {
+    "Total Cases": "123,577",
+    "Total Deaths": "3,840 ",
+    "Total Recovered": "116,742",
+    "Active Cases": "2,995"
+  },
+  "Cambodia": {
+    "Total Cases": "120,914",
+    "Total Deaths": "3,015 ",
+    "Total Recovered": "117,162",
+    "Active Cases": "737"
+  },
+  "Jamaica": {
+    "Total Cases": "116,084",
+    "Total Deaths": "2,555 ",
+    "Total Recovered": "67,681",
+    "Active Cases": "45,848"
+  },
+  "Cameroon": {
+    "Total Cases": "109,666",
+    "Total Deaths": "1,853 ",
+    "Total Recovered": "106,050",
+    "Active Cases": "1,763"
+  },
+  "Maldives": {
+    "Total Cases": "108,732",
+    "Total Deaths": "265 ",
+    "Total Recovered": "98,880",
+    "Active Cases": "9,587"
+  },
+  "Trinidad and Tobago": {
+    "Total Cases": "102,942",
+    "Total Deaths": "3,238 ",
+    "Total Recovered": "81,602",
+    "Active Cases": "18,102"
+  },
+  "Angola": {
+    "Total Cases": "94,779",
+    "Total Deaths": "1,877 ",
+    "Total Recovered": "85,603",
+    "Active Cases": "7,299"
+  },
+  "Senegal": {
+    "Total Cases": "83,752",
+    "Total Deaths": "1,917 ",
+    "Total Recovered": "76,817",
+    "Active Cases": "5,018"
+  },
+  "Malawi": {
+    "Total Cases": "83,219",
+    "Total Deaths": "2,491 ",
+    "Total Recovered": "66,042",
+    "Active Cases": "14,686"
+  },
+  "DRC": {
+    "Total Cases": "82,984",
+    "Total Deaths": "1,278 ",
+    "Total Recovered": "50,930",
+    "Active Cases": "30,776"
+  },
+  "Ivory Coast": {
+    "Total Cases": "79,558",
+    "Total Deaths": "764 ",
+    "Total Recovered": "76,006",
+    "Active Cases": "2,788"
+  },
+  "Guadeloupe": {
+    "Total Cases": "73,959",
+    "Total Deaths": "753 ",
+    "Total Recovered": "2,250",
+    "Active Cases": "70,956"
+  },
+  "French Guiana": {
+    "Total Cases": "71,476",
+    "Total Deaths": "356 ",
+    "Total Recovered": "11,254",
+    "Active Cases": "59,866"
+  },
+  "Martinique": {
+    "Total Cases": "71,193",
+    "Total Deaths": "813 ",
+    "Total Recovered": "104",
+    "Active Cases": "70,276"
+  },
+  "Eswatini": {
+    "Total Cases": "67,975",
+    "Total Deaths": "1,365 ",
+    "Total Recovered": "66,022",
+    "Active Cases": "588"
+  },
+  "Suriname": {
+    "Total Cases": "67,768",
+    "Total Deaths": "1,222 ",
+    "Total Recovered": "49,186",
+    "Active Cases": "17,360"
+  },
+  "Malta": {
+    "Total Cases": "65,005",
+    "Total Deaths": "520 ",
+    "Total Recovered": "55,375",
+    "Active Cases": "9,110"
+  },
+  "Fiji": {
+    "Total Cases": "60,509",
+    "Total Deaths": "752 ",
+    "Total Recovered": "55,676",
+    "Active Cases": "4,081"
+  },
+  "Mauritania": {
+    "Total Cases": "56,296",
+    "Total Deaths": "914 ",
+    "Total Recovered": "44,947",
+    "Active Cases": "10,435"
+  },
+  "Madagascar": {
+    "Total Cases": "55,827",
+    "Total Deaths": "1,169 ",
+    "Total Recovered": "50,381",
+    "Active Cases": "4,277"
+  },
+  "Cabo Verde": {
+    "Total Cases": "54,891",
+    "Total Deaths": "380 ",
+    "Total Recovered": "52,406",
+    "Active Cases": "2,105"
+  },
+  "Guyana": {
+    "Total Cases": "53,921",
+    "Total Deaths": "1,108 ",
+    "Total Recovered": "40,994",
+    "Active Cases": "11,819"
+  },
+  "Iceland": {
+    "Total Cases": "53,121",
+    "Total Deaths": "44 ",
+    "Total Recovered": "42,440",
+    "Active Cases": "10,637"
+  },
+  "Sudan": {
+    "Total Cases": "53,080",
+    "Total Deaths": "3,390 ",
+    "Total Recovered": "40,329",
+    "Active Cases": "9,361"
+  },
+  "Syria": {
+    "Total Cases": "50,821",
+    "Total Deaths": "2,956 ",
+    "Total Recovered": "35,238",
+    "Active Cases": "12,627"
+  },
+  "French Polynesia": {
+    "Total Cases": "47,275",
+    "Total Deaths": "636 ",
+    "Total Recovered": "N/A",
+    "Active Cases": "N/A"
+  },
+  "Gabon": {
+    "Total Cases": "45,405",
+    "Total Deaths": "299 ",
+    "Total Recovered": "39,889",
+    "Active Cases": "5,217"
+  },
+  "Belize": {
+    "Total Cases": "44,145",
+    "Total Deaths": "611 ",
+    "Total Recovered": "34,468",
+    "Active Cases": "9,066"
+  },
+  "Channel Islands": {
+    "Total Cases": "37,613",
+    "Total Deaths": "124 ",
+    "Total Recovered": "34,522",
+    "Active Cases": "2,967"
+  },
+  "Barbados": {
+    "Total Cases": "37,063",
+    "Total Deaths": "271 ",
+    "Total Recovered": "31,128",
+    "Active Cases": "5,664"
+  },
+  "Burundi": {
+    "Total Cases": "36,785",
+    "Total Deaths": "38 ",
+    "Total Recovered": "773",
+    "Active Cases": "35,974"
+  },
+  "Papua New Guinea": {
+    "Total Cases": "36,446",
+    "Total Deaths": "596 ",
+    "Total Recovered": "35,798",
+    "Active Cases": "52"
+  },
+  "Togo": {
+    "Total Cases": "36,120",
+    "Total Deaths": "264 ",
+    "Total Recovered": "29,735",
+    "Active Cases": "6,121"
+  },
+  "Guinea": {
+    "Total Cases": "35,719",
+    "Total Deaths": "410 ",
+    "Total Recovered": "31,183",
+    "Active Cases": "4,126"
+  },
+  "Mayotte": {
+    "Total Cases": "35,189",
+    "Total Deaths": "186 ",
+    "Total Recovered": "2,964",
+    "Active Cases": "32,039"
+  },
+  "Cura\u00e7ao": {
+    "Total Cases": "34,886",
+    "Total Deaths": "207 ",
+    "Total Recovered": "22,807",
+    "Active Cases": "11,872"
+  },
+  "Seychelles": {
+    "Total Cases": "32,846",
+    "Total Deaths": "140 ",
+    "Total Recovered": "27,657",
+    "Active Cases": "5,049"
+  },
+  "Tanzania": {
+    "Total Cases": "32,393",
+    "Total Deaths": "753 ",
+    "Total Recovered": "N/A",
+    "Active Cases": "N/A"
+  },
+  "Lesotho": {
+    "Total Cases": "31,899",
+    "Total Deaths": "690 ",
+    "Total Recovered": "20,530",
+    "Active Cases": "10,679"
+  },
+  "Aruba": {
+    "Total Cases": "31,603",
+    "Total Deaths": "187 ",
+    "Total Recovered": "30,235",
+    "Active Cases": "1,181"
+  },
+  "Bahamas": {
+    "Total Cases": "31,549",
+    "Total Deaths": "719 ",
+    "Total Recovered": "23,326",
+    "Active Cases": "7,504"
+  },
+  "Andorra": {
+    "Total Cases": "29,888",
+    "Total Deaths": "142 ",
+    "Total Recovered": "24,030",
+    "Active Cases": "5,716"
+  },
+  "Mali": {
+    "Total Cases": "29,257",
+    "Total Deaths": "701 ",
+    "Total Recovered": "24,904",
+    "Active Cases": "3,652"
+  },
+  "Haiti": {
+    "Total Cases": "28,030",
+    "Total Deaths": "780 ",
+    "Total Recovered": "24,164",
+    "Active Cases": "3,086"
+  },
+  "Benin": {
+    "Total Cases": "26,309",
+    "Total Deaths": "163 ",
+    "Total Recovered": "25,033",
+    "Active Cases": "1,113"
+  },
+  "Mauritius": {
+    "Total Cases": "25,035",
+    "Total Deaths": "762 ",
+    "Total Recovered": "24,078",
+    "Active Cases": "195"
+  },
+  "Somalia": {
+    "Total Cases": "24,261",
+    "Total Deaths": "1,335 ",
+    "Total Recovered": "13,182",
+    "Active Cases": "9,744"
+  },
+  "Congo": {
+    "Total Cases": "23,244",
+    "Total Deaths": "371 ",
+    "Total Recovered": "18,993",
+    "Active Cases": "3,880"
+  },
+  "Burkina Faso": {
+    "Total Cases": "20,414",
+    "Total Deaths": "353 ",
+    "Total Recovered": "19,354",
+    "Active Cases": "707"
+  },
+  "Timor-Leste": {
+    "Total Cases": "19,866",
+    "Total Deaths": "122 ",
+    "Total Recovered": "19,730",
+    "Active Cases": "14"
+  },
+  "Saint Lucia": {
+    "Total Cases": "18,322",
+    "Total Deaths": "316 ",
+    "Total Recovered": "14,351",
+    "Active Cases": "3,655"
+  },
+  "Taiwan": {
+    "Total Cases": "18,041",
+    "Total Deaths": "851 ",
+    "Total Recovered": "16,178",
+    "Active Cases": "1,012"
+  },
+  "Nicaragua": {
+    "Total Cases": "17,604",
+    "Total Deaths": "215 ",
+    "Total Recovered": "4,225",
+    "Active Cases": "13,164"
+  },
+  "Tajikistan": {
+    "Total Cases": "17,095",
+    "Total Deaths": "124 ",
+    "Total Recovered": "16,966",
+    "Active Cases": "5"
+  },
+  "South Sudan": {
+    "Total Cases": "16,607",
+    "Total Deaths": "136 ",
+    "Total Recovered": "12,934",
+    "Active Cases": "3,537"
+  },
+  "Brunei ": {
+    "Total Cases": "15,986",
+    "Total Deaths": "98 ",
+    "Total Recovered": "15,506",
+    "Active Cases": "382"
+  },
+  "Equatorial Guinea": {
+    "Total Cases": "15,558",
+    "Total Deaths": "179 ",
+    "Total Recovered": "14,141",
+    "Active Cases": "1,238"
+  },
+  "New Zealand": {
+    "Total Cases": "15,334",
+    "Total Deaths": "52 ",
+    "Total Recovered": "14,245",
+    "Active Cases": "1,037"
+  },
+  "Djibouti": {
+    "Total Cases": "15,134",
+    "Total Deaths": "189 ",
+    "Total Recovered": "14,503",
+    "Active Cases": "442"
+  },
+  "New Caledonia": {
+    "Total Cases": "14,854",
+    "Total Deaths": "282 ",
+    "Total Recovered": "12,837",
+    "Active Cases": "1,735"
+  },
+  "Isle of Man": {
+    "Total Cases": "14,126",
+    "Total Deaths": "70 ",
+    "Total Recovered": "13,755",
+    "Active Cases": "301"
+  },
+  "CAR": {
+    "Total Cases": "13,319",
+    "Total Deaths": "108 ",
+    "Total Recovered": "6,859",
+    "Active Cases": "6,352"
+  },
+  "Hong Kong": {
+    "Total Cases": "13,096",
+    "Total Deaths": "213 ",
+    "Total Recovered": "12,474",
+    "Active Cases": "409"
+  },
+  "Faeroe Islands": {
+    "Total Cases": "11,948",
+    "Total Deaths": "15  ",
+    "Total Recovered": "7,693",
+    "Active Cases": "4,240"
+  },
+  "Cayman Islands": {
+    "Total Cases": "11,666",
+    "Total Deaths": "15 ",
+    "Total Recovered": "8,093",
+    "Active Cases": "3,558"
+  },
+  "Gambia": {
+    "Total Cases": "11,572",
+    "Total Deaths": "347 ",
+    "Total Recovered": "10,156",
+    "Active Cases": "1,069"
+  },
+  "Gibraltar": {
+    "Total Cases": "11,216",
+    "Total Deaths": "100 ",
+    "Total Recovered": "9,629",
+    "Active Cases": "1,487"
+  },
+  "Grenada": {
+    "Total Cases": "10,707",
+    "Total Deaths": "204 ",
+    "Total Recovered": "7,547",
+    "Active Cases": "2,956"
+  },
+  "San Marino": {
+    "Total Cases": "10,639",
+    "Total Deaths": "103 ",
+    "Total Recovered": "8,895",
+    "Active Cases": "1,641"
+  },
+  "Yemen": {
+    "Total Cases": "10,485",
+    "Total Deaths": "1,995 ",
+    "Total Recovered": "7,051",
+    "Active Cases": "1,439"
+  },
+  "Bermuda": {
+    "Total Cases": "9,144",
+    "Total Deaths": "110 ",
+    "Total Recovered": "7,081",
+    "Active Cases": "1,953"
+  },
+  "Eritrea": {
+    "Total Cases": "9,115",
+    "Total Deaths": "89 ",
+    "Total Recovered": "8,440",
+    "Active Cases": "586"
+  },
+  "Greenland": {
+    "Total Cases": "9,014",
+    "Total Deaths": "3 ",
+    "Total Recovered": "2,761",
+    "Active Cases": "6,250"
+  },
+  "Sint Maarten": {
+    "Total Cases": "8,897",
+    "Total Deaths": "77 ",
+    "Total Recovered": "6,664",
+    "Active Cases": "2,156"
+  },
+  "Niger": {
+    "Total Cases": "8,472",
+    "Total Deaths": "294 ",
+    "Total Recovered": "7,476",
+    "Active Cases": "702"
+  },
+  "Dominica": {
+    "Total Cases": "7,957",
+    "Total Deaths": "48 ",
+    "Total Recovered": "7,262",
+    "Active Cases": "647"
+  },
+  "Comoros": {
+    "Total Cases": "7,784",
+    "Total Deaths": "159 ",
+    "Total Recovered": "7,368",
+    "Active Cases": "257"
+  },
+  "Saint Martin": {
+    "Total Cases": "7,713",
+    "Total Deaths": "60 ",
+    "Total Recovered": "1,399",
+    "Active Cases": "6,254"
+  },
+  "Liechtenstein": {
+    "Total Cases": "7,597",
+    "Total Deaths": "73 ",
+    "Total Recovered": "7,148",
+    "Active Cases": "376"
+  },
+  "Sierra Leone": {
+    "Total Cases": "7,562",
+    "Total Deaths": "125 ",
+    "Total Recovered": "N/A",
+    "Active Cases": "N/A"
+  },
+  "Guinea-Bissau": {
+    "Total Cases": "7,140",
+    "Total Deaths": "153 ",
+    "Total Recovered": "6,361",
+    "Active Cases": "626"
+  },
+  "Liberia": {
+    "Total Cases": "7,121",
+    "Total Deaths": "287 ",
+    "Total Recovered": "5,747",
+    "Active Cases": "1,087"
+  },
+  "Monaco": {
+    "Total Cases": "7,041",
+    "Total Deaths": "44 ",
+    "Total Recovered": "6,567",
+    "Active Cases": "430"
+  },
+  "Chad": {
+    "Total Cases": "6,887",
+    "Total Deaths": "185 ",
+    "Total Recovered": "4,874",
+    "Active Cases": "1,828"
+  },
+  "St. Vincent Grenadines": {
+    "Total Cases": "6,604",
+    "Total Deaths": "88 ",
+    "Total Recovered": "5,638",
+    "Active Cases": "878"
+  },
+  "Caribbean Netherlands": {
+    "Total Cases": "5,824",
+    "Total Deaths": "27 ",
+    "Total Recovered": "4,969",
+    "Active Cases": "828"
+  },
+  "Antigua and Barbuda": {
+    "Total Cases": "5,741",
+    "Total Deaths": "121 ",
+    "Total Recovered": "4,369",
+    "Active Cases": "1,251"
+  },
+  "Sao Tome and Principe": {
+    "Total Cases": "5,651",
+    "Total Deaths": "66 ",
+    "Total Recovered": "4,392",
+    "Active Cases": "1,193"
+  },
+  "British Virgin Islands": {
+    "Total Cases": "5,449",
+    "Total Deaths": "47 ",
+    "Total Recovered": "N/A",
+    "Active Cases": "N/A"
+  },
+  "Turks and Caicos": {
+    "Total Cases": "5,271",
+    "Total Deaths": "32 ",
+    "Total Recovered": "4,707",
+    "Active Cases": "532"
+  },
+  "Saint Kitts and Nevis": {
+    "Total Cases": "5,141",
+    "Total Deaths": "28 ",
+    "Total Recovered": "4,090",
+    "Active Cases": "1,023"
+  },
+  "Bhutan": {
+    "Total Cases": "3,317",
+    "Total Deaths": "3 ",
+    "Total Recovered": "2,654",
+    "Active Cases": "660"
+  },
+  "St. Barth": {
+    "Total Cases": "2,927",
+    "Total Deaths": "6 ",
+    "Total Recovered": "N/A",
+    "Active Cases": "N/A"
+  },
+  "Anguilla": {
+    "Total Cases": "2,187",
+    "Total Deaths": "7 ",
+    "Total Recovered": "1,997",
+    "Active Cases": "183"
+  },
+  "Diamond Princess": {
+    "Total Cases": "712",
+    "Total Deaths": "13 ",
+    "Total Recovered": "699",
+    "Active Cases": "0"
+  },
+  "Saint Pierre Miquelon": {
+    "Total Cases": "598",
+    "Total Deaths": " ",
+    "Total Recovered": "363",
+    "Active Cases": "235"
+  },
+  "Wallis and Futuna": {
+    "Total Cases": "454",
+    "Total Deaths": "7 ",
+    "Total Recovered": "438",
+    "Active Cases": "9"
+  },
+  "Palau": {
+    "Total Cases": "189",
+    "Total Deaths": " ",
+    "Total Recovered": "19",
+    "Active Cases": "170"
+  },
+  "Montserrat": {
+    "Total Cases": "151",
+    "Total Deaths": "1 ",
+    "Total Recovered": "111",
+    "Active Cases": "39"
+  },
+  "Falkland Islands": {
+    "Total Cases": "85",
+    "Total Deaths": " ",
+    "Total Recovered": "N/A",
+    "Active Cases": "N/A"
+  },
+  "Solomon Islands": {
+    "Total Cases": "81",
+    "Total Deaths": " ",
+    "Total Recovered": "20",
+    "Active Cases": "61"
+  },
+  "Macao": {
+    "Total Cases": "79",
+    "Total Deaths": " ",
+    "Total Recovered": "79",
+    "Active Cases": "0"
+  },
+  "Vatican City": {
+    "Total Cases": "29",
+    "Total Deaths": " ",
+    "Total Recovered": "27",
+    "Active Cases": "2"
+  },
+  "Samoa": {
+    "Total Cases": "13",
+    "Total Deaths": " ",
+    "Total Recovered": "3",
+    "Active Cases": "10"
+  },
+  "Western Sahara": {
+    "Total Cases": "10",
+    "Total Deaths": "1 ",
+    "Total Recovered": "8",
+    "Active Cases": "1"
+  },
+  "MS Zaandam": {
+    "Total Cases": "9",
+    "Total Deaths": "2 ",
+    "Total Recovered": "7",
+    "Active Cases": "0"
+  },
+  "Vanuatu": {
+    "Total Cases": "7",
+    "Total Deaths": "1 ",
+    "Total Recovered": "6",
+    "Active Cases": "0"
+  },
+  "Marshall Islands": {
+    "Total Cases": "7",
+    "Total Deaths": " ",
+    "Total Recovered": "7",
+    "Active Cases": "0"
+  },
+  "Saint Helena": {
+    "Total Cases": "2",
+    "Total Deaths": " ",
+    "Total Recovered": "2",
+    "Active Cases": "0"
+  },
+  "Micronesia": {
+    "Total Cases": "1",
+    "Total Deaths": " ",
+    "Total Recovered": "1",
+    "Active Cases": "0"
+  },
+  "Tonga": {
+    "Total Cases": "1",
+    "Total Deaths": " ",
+    "Total Recovered": "1",
+    "Active Cases": "0"
+  },
+  "China": {
+    "Total Cases": "105,411",
+    "Total Deaths": "4,636 ",
+    "Total Recovered": "97,478",
+    "Active Cases": "3,297"
+  }
+}
